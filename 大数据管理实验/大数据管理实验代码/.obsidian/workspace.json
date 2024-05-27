@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "220be542964707da",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bdf918b26cdfc11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c113a479cbcad421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务 1： MySQL for JSON 实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dedbfc00ab63678c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务3：Neo4j实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a210797567959a03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务4：多数据库交互应用实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c899b1de77fb0c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "任务5：不同类型数据库MVCC多版本并发控制对比实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "522d98f75d1e7340",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2a9ab1ce3020fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c256ae0b9528fa1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60c2c0125b10dc21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "612b519d4714a0d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "989126d44b67832f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77aa79f8572de756",
+    "type": "split",
+    "children": [
+      {
+        "id": "9347a554b9b7a4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4a929decf8ee58",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "任务 1： MySQL for JSON 实验.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3755e6b9964a3e87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "任务 1： MySQL for JSON 实验.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "161d58bc60abd46f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a00d6bb52eeebe0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "任务 1： MySQL for JSON 实验.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1c256ae0b9528fa1",
+  "lastOpenFiles": [
+    "任务2：MongoDB实验.md",
+    "任务5：不同类型数据库MVCC多版本并发控制对比实验.md",
+    "graph.png",
+    "任务4：多数据库交互应用实验.md",
+    "任务3：Neo4j实验.md",
+    "任务 1： MySQL for JSON 实验.md",
+    "export1.csv",
+    "export.csv",
+    "模型训练.png",
+    "网络定义.png",
+    "数据处理.png",
+    "昇腾实验.md",
+    "Snipaste_2023-10-25_11-07-31.png",
+    "Snipaste_2023-10-25_11-02-52.png",
+    "Snipaste_2023-10-22_19-10-41.png",
+    "Snipaste_2023-10-22_18-41-16.png"
+  ]
+}

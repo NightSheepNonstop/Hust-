@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "5bd70d97da8fed61",
+    "type": "split",
+    "children": [
+      {
+        "id": "019aad2011bee567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefbf5f40cdcb640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3/IP地址配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6d14ef1d4b76a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "专业认识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c20ed35adee4bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cefdcfa6b2c52f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2351ed5763c2a51f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3478e7ab1fcf77d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f53e3b8ab37bb6d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "630b1dc878439ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "09a3990dc366a424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df07b74a322b1ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "专业认识.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6769c312ff5fdd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "专业认识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0f7079a542ceacf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ab746816646755e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "专业认识.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b6d14ef1d4b76a9c",
+  "lastOpenFiles": [
+    "3/IP地址配置.md",
+    "专业认识.md",
+    "实验报告.md",
+    "基本逻辑.md",
+    "IP地址配置.md"
+  ]
+}
